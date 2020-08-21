@@ -5,19 +5,14 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
+### Compiles and generate for bundle
 ```
 npm run build
 ```
 
-### Run your unit tests
+### Run project
 ```
-npm run test:unit
+cd server && node ./index.js
 ```
 
 ### Customize configuration
